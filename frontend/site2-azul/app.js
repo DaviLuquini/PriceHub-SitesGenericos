@@ -163,13 +163,8 @@ function renderProductGrid(products) {
               </a>
             </h3>
 
-            <p class="text-xs text-slate-500 font-medium mb-2 truncate">
+            <p class="text-xs text-slate-500 font-medium mb-3 truncate">
               ${item.apresentacao}
-            </p>
-
-            <!-- Descrição resumida sem corte vertical (2 linhas completas) -->
-            <p class="text-xs text-slate-600 line-clamp-2 min-h-[2.5rem] leading-snug mb-3">
-              ${item.descricao}
             </p>
           </div>
 
