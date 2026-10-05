@@ -119,3 +119,4 @@ Em cada uma das 3 pastas (`site1/`, `site2/`, `site3/`), forneça:
 - `produto.html`: Página com URL dedicada (`?id=X`) com ficha técnica completa do remédio.
 - `products.js`: Objeto contendo os 10 medicamentos com a respectiva tabela de preços daquele site.
 - `app.js`: Lógica de renderização de cards uniformes, busca, filtros e carrinho.
+- Gere um layout levemente diferente para cada um deles
